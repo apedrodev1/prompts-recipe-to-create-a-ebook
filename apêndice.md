@@ -26,7 +26,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 
 ## 📸 Caso Prático: A Evolução de uma Imagem com Erros  
 
-**Prompt usado:** `"garrafa de bebida adulterada com símbolo de perigo"`
+**Prompt usado:** `"Gere uma imagem representando os riscos do metanol para o nosso fígado e nervo óptico. Com a seguinte mensagem: "O perigo não tem cheiro, cor ou gosto. Mas tem consequências!"`
 
 ### 🔹 Imagem Original (DALL·E 3)
 <img src="./assets/img/img1-gerada-gpt-4.jpg" width="400">
@@ -39,8 +39,8 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 ---
 
 ### 🔹 Tentativa de Refinamento (Gemini Nano Banano)
-**Correção proposta:** “corrigir texto em português na garrafa”  
-**Prompt usado:** `"garrafa de bebida adulterada com símbolo de perigo"`
+**Correção proposta:** “Corrigir texto em português no rodapé:”  
+**Prompt usado:** `"Corrigir a mensagem no rodapé da imagem. Segue o texto correto: ""O perigo não tem cheiro, cor ou gosto. Mas tem consequências!""`
 
 📎 **Imagem Resultante:**  
 <img src="./assets/img/img1.1-filtrada-gemini-nano-banano.jpg" width="400">
@@ -52,6 +52,54 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 
 ---
 
+## 🔄 Ivertendo o processo: 
+
+**Prompt usado:** 
+
+`"Gere um card com a seguinte mensagem: "EMERGÊNCIA: REAJA IMEDIATAMENTE Sintomas de alerta (Ministério da Saúde): Náuseas e tontura intensas Visão turva ou perda de foco Dor de cabeça forte e repentina Falta de coordenação ou confusão mental Procedimento imediato: Ligue para o SAMU (192) Vá ao hospital imediatamente — não espere os sintomas passarem Leve a embalagem da bebida, se possível, para análise médica. Cada minuto conta. O metanol pode causar cegueira ou morte em poucas horas. Agir rápido pode ser a diferença entre a vida e a perda irreversível."`
+
+### 🔹 Imagem Original (Gemini Nano Banano)
+<img src="./assets/img/broke-gen-img/gemini-nano-banano/gen-card-1-gemini-nano-banano.jpg" width="400">
+
+**Problemas identificados:**
+- Texto em português completamente sem sentido  
+- Tipografia aleatória e ilegível  
+- Elementos visuais fora de contexto  
+
+---
+
+### 🔹 Tentativa de Refinamento (DALL·E 3)
+**Correção proposta:** “Corrigir texto em português na imagem:”  
+
+**Prompt usado:** 
+
+`"Corrigir a mensagem da imagem. Segue o texto correto: "EMERGÊNCIA: REAJA IMEDIATAMENTE Sintomas de alerta (Ministério da Saúde): Náuseas e tontura intensas Visão turva ou perda de foco Dor de cabeça forte e repentina Falta de coordenação ou confusão mental Procedimento imediato: Ligue para o SAMU (192) Vá ao hospital imediatamente — não espere os sintomas passarem Leve a embalagem da bebida, se possível, para análise médica. Cada minuto conta. O metanol pode causar cegueira ou morte em poucas horas. Agir rápido pode ser a diferença entre a vida e a perda irreversível.""`
+
+📎 **Imagem Resultante:**  
+<img src="./assets/img/broke-gen-img/gpt-dalle3/cardi-refined-1-time-dalle3.png" width="400">
+
+**Resultados observados:**
+- Texto ainda com erros ortográficos, porém com uma grande melhora em relação a imagem inicial. 
+- Perda de elementos gráficos (logo de alerta no inicio da página) 
+
+### 🔹 Segunda Tentativa de Refinamento:
+**Prompt usado:** 
+`"Refine novamente. Segue o texto: ... "`
+
+📎 **Imagem Resultante:**  
+<img src="./assets/img/broke-gen-img/gpt-dalle3/card-refined-2-time-dalle3.png" width="300">
+
+**Resultados observados:**
+- Erros ortográficos corrigidos,
+- Perda de todo o layout da imagem inicial; ele ainda preserva as cores e faz uma representação melhor ao sino de alerta, comparado a segunda imagem.
+
+</br>
+
+> ℹ️ **NOTE:** Aqui entramos em um loop de alucinações e neste ponto dificilmente voltaremos a imagem inicial. A recomendação é abortar o processo, re-avaliar os prompts já utilizados e reinicia-lo novamente.
+
+---
+
+</br>
 
 ## 🧠 Análise Técnica do Problema
 ### Limitações Identificadas:
@@ -74,6 +122,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 
 - Pouco entendimento de nuances do português brasileiro
 
+</br>
 
 ## 💰 A Economia da Qualidade: Capitalização dos Recursos
 ### A Hierarquia de Acesso por Pagamento:
