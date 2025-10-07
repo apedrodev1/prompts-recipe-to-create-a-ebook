@@ -3,57 +3,66 @@
 </p>
 
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+
+## 📗 PROJETO E-BOOK: *"vER TITULO"*
+
+### 🎯 Sobre o Projeto
+Este eBook emerge como uma resposta urgente à crise de saúde pública que assola o Brasil em 2025: a **intoxicação por metanol em bebidas alcoólicas**.  
+Diante de **195 notificações e 113 casos confirmados** pelo Ministério da Saúde — incluindo óbitos — criamos um guia essencial para **jovens e adultos que frequentam bares, festas e compram bebidas online**.
+
+---
+
+### 🚨 Missão do eBook
+**Educar para salvar vidas** — transformando informação técnica em conhecimento acessível,  
+com linguagem clara e tom de *“amigo bem informado”*, sem paternalismo ou sensacionalismo.
+
+---
+
+### 🎨 Abordagem Criativa
+- **Título impactante:** *"tITULO"* — usa uma expressão popular para tratar de um tema sério.  
+- **Design visual:** ilustrações geradas por IA (*com suas limitações documentadas*).  
+- **Estrutura progressiva:** do básico (*“O que é metanol”*) ao prático (*“Como agir em emergências”*).
+
+---
+
+### 🔧 Metodologia de Desenvolvimento
+Cada capítulo foi construído através de **engenharia de prompts refinada**, garantindo:
+
+- Precisão factual baseada em **fontes oficiais**  
+- Tom consistente de **alerta urgente, porém empoderador**  
+- Conteúdo **acionável e fácil de aplicar**  
+
+---
+
+### 📊 Diferencial Social
+Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
+
+- Democratiza **informação médica crítica**  
+- Empodera **jovens com conhecimento protetivo**  
+- Cria uma **rede de conscientização coletiva**  
+
+> 🧩 Este não é apenas mais um eBook — é um instrumento de proteção que pode literalmente **salvar vidas**.
+
+---
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DeepSeek]()
+- [Gemini]()
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
 
 ## 📚 Materiais
 
@@ -63,6 +72,40 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+
+---
+
+## 🧠 Epílogo Visual: Quando a IA "Enxerga Demais" (ou de Menos)
+
+Durante o processo de criação das imagens deste eBook, algo curioso, preocupante — e recorrente aconteceu:  
+as inteligências artificiais responsáveis pelas ilustrações começaram a **“alucinar”**.
+
+Textos trocados, palavras inexistentes e frases em português que desafiam qualquer dicionário.  
+Mas o problema vai além da gramática: ele revela os **limites de interpretação das IA generativas** e como elas **ainda distorcem contextos culturais e linguísticos** fora do eixo inglês.
+
+Se você se interessa por **arte, tecnologia e crítica digital**, vale explorar o anexo especial abaixo —  
+um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda tropeçam quando tentam ser criativos em português**.  
+
+🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](#-anexo-crítica-às-ia-generativas-de-imagem)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 👨‍💻 Expert
 
