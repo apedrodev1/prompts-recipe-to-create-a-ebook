@@ -29,7 +29,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 **Prompt usado:** `"Gere uma imagem representando os riscos do metanol para o nosso fígado e nervo óptico. Com a seguinte mensagem: "O perigo não tem cheiro, cor ou gosto. Mas tem consequências!"`
 
 ### 🔹 Imagem Original (DALL·E 3)
-<img src="./assets/img/img1-gerada-gpt-4.jpg" width="400">
+<img src="./assets/img/broke-gen-img/gpt-dalle3/img1-gerada-gpt-4.jpg" width="400">
 
 **Problemas identificados:**
 - Texto em português completamente sem sentido  
@@ -43,7 +43,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 **Prompt usado:** `"Corrigir a mensagem no rodapé da imagem. Segue o texto correto: ""O perigo não tem cheiro, cor ou gosto. Mas tem consequências!""`
 
 📎 **Imagem Resultante:**  
-<img src="./assets/img/img1.1-filtrada-gemini-nano-banano.jpg" width="400">
+<img src="./assets/img/broke-gen-img/gemini-nano-banano/img1.1-filtrada-gemini-nano-banano.jpg" width="400">
 
 **Resultados observados:**
 - Texto ainda com erros ortográficos  
