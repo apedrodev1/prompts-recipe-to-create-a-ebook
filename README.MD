@@ -1,8 +1,21 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="./assets/img/readme-images/banner.png">
+</p>
+
+<p align="center">
+<a href="https://dio.me/">
+    <img src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" alt="DIO - Code The Future">
+</a>
+<a href="https://www.santander.com.br/hotsite/traineesantander/">
+    <img src="https://img.shields.io/badge/Santander-Trainee_2026-FF0000" alt="Santander Trainee 2026">
+</a>
+<a href="https://www.universia.net/br/home">
+    <img src="https://img.shields.io/badge/Universia-Recrutamento-00A2E4" alt="Universia">
+</a>
 </p>
 
 
+</br>
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -10,8 +23,15 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+</br>
 
+> ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) em parceria com a [**DIO**](https://dio.me) e [**Universia**](https://www.universia.net/br/home), explorando as possibilidades da IA generativa na criação de conteúdo.
+
+</br>
+
+### <div align="center"><a  href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now" > 📕 Clique aqui para ler</a></div>
+
+</br>
 
 ## 📗 PROJETO E-BOOK: *"vER TITULO"*
 
@@ -64,10 +84,10 @@ Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
 ## 🧠 Prompts
 
 
-## 📚 Materiais
+## 📚 Material de Apoio
+- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main)
+- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts/output)  
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
@@ -95,41 +115,24 @@ um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda trop
 
 
 
+## 👨‍💻 Desenvolvedor
 
-
-
-
-
-
-
-
-
-
-
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+<p align="center">
+  <img src="./assets/img/readme-images/apedrodev1-pic.jpg" width="150" alt="Foto de Pedro Augusto"/>
 </p>
-<br/><br/>
-<p>
+
+<p align="center">
+  <b>Pedro Augusto</b>  
+  <br>
+  <a href="https://github.com/apedrodev1">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/apedrorocha/">Instagram</a>
+</p>
+
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+</br>
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins educacionais como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) .
