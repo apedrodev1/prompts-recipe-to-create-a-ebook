@@ -109,11 +109,25 @@ um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda trop
 
 🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](#-anexo-crítica-às-ia-generativas-de-imagem)
 
+---
+</br>
 
+
+## 📚 Fontes, Referências e Leitura Recomendada
+
+A informação salva vidas — e toda base deste projeto foi construída sobre dados oficiais e reportagens verificadas.  
+Para garantir a transparência e possibilitar que qualquer leitor aprofunde o tema, compilamos uma bibliografia atualizada com **notícias, boletins oficiais e artigos científicos** sobre a crise do metanol em 2025.
+
+🧾 **Acesse aqui o arquivo completo:**  
+👉 [Bibliografia e Fontes — Crise do Metanol 2025](./assets/sources/bibliografia-e-fontes-relevantes.txt)
 
 ---
 
+💡 **Dica:**  
+Caso esteja visualizando este repositório diretamente no GitHub, você pode clicar no link acima para abrir o `.txt` dentro do navegador, ou baixá-lo para leitura offline.
 
+
+</br>
 
 ## 👨‍💻 Desenvolvedor
 
