@@ -74,6 +74,8 @@ Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
 
 ---
 
+</br>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -83,11 +85,7 @@ Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
 
 ## 🧠 Prompts
 
-
-## 📚 Material de Apoio
-- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main)
-- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts/output)  
-
+</br>
 
 ## 🛠️ Instruções de execução
 
@@ -95,6 +93,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
 ---
+
+</br>
 
 ## 🧠 Epílogo Visual: Quando a IA "Enxerga Demais" (ou de Menos)
 
@@ -112,6 +112,11 @@ um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda trop
 ---
 </br>
 
+## 📚 Material de Apoio
+- 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main)
+- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts/output)  
+
+</br>
 
 ## 📚 Fontes, Referências e Leitura Recomendada
 
