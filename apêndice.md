@@ -83,6 +83,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 - Perda de elementos gráficos (logo de alerta no inicio da página) 
 
 ### 🔹 Segunda Tentativa de Refinamento:
+**Correção proposta:** “Corrigir texto em português na imagem:” 
 **Prompt usado:** 
 `"Refine novamente. Segue o texto: ... "`
 
@@ -91,6 +92,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 
 **Resultados observados:**
 - Erros ortográficos corrigidos,
+- Redimensionamento não solicitado da imagem,
 - Perda de todo o layout da imagem inicial; ele ainda preserva as cores e faz uma representação melhor ao sino de alerta, comparado a segunda imagem.
 
 </br>
