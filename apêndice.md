@@ -87,7 +87,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 `"Refine novamente. Segue o texto: ... "`
 
 📎 **Imagem Resultante:**  
-<img src="./assets/img/broke-gen-img/gpt-dalle3/card-refined-2-time-dalle3.png" width="300">
+<img src="./assets/img/broke-gen-img/gpt-dalle3/card-refined-2-time-dalle3.png" width="400">
 
 **Resultados observados:**
 - Erros ortográficos corrigidos,
