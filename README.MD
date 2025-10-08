@@ -109,7 +109,7 @@ Textos trocados, palavras inexistentes e frases em português que desafiam qualq
 Mas o problema vai além da gramática: ele revela os **limites de interpretação das IA generativas** e como elas **ainda distorcem contextos culturais e linguísticos** fora do eixo inglês.
 
 Se você se interessa por **arte, tecnologia e crítica digital**, vale explorar o anexo especial abaixo —  
-um estudo de caso real mostrando como modelos como DALL·E e Gemini Nano Banano **ainda tropeçam quando tentam ser criativos em português**.  
+um estudo de caso real mostrando como modelos como DALL·E e Gemini Nano Banana **ainda tropeçam quando tentam ser criativos em português**.  
 
 🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/blob/main/ap%C3%AAndice.md)
 
