@@ -1,4 +1,4 @@
-## 🧠 Prompts - Desenvolvimento da imagem de capa.
+## 🧠 Prompts - Desenvolvimento da imagem de capa para o capítulo 2.
 
 ## [GPT - DALLE 3](https://chatgpt.com/)：
 
