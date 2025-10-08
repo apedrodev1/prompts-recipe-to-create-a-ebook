@@ -29,11 +29,34 @@ seguem abaixo.
 
 </br>
 
-### <div align="center"><a  href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now" > 📕 Clique aqui para ler</a></div>
+### <div align="center"><a  href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now" > 📕 Clique aqui para ler!</a></div>
 
 </br>
 
-## 📗 PROJETO E-BOOK: *"vER TITULO"*
+## 🧠 Engenharia de Prompts
+
+Cada capítulo deste eBook foi construído com base em **prompts cuidadosamente elaborados**, projetados para unir precisão técnica e narrativa envolvente.  
+Através da **engenharia de prompts**, foi possível orientar a IA a gerar textos coerentes, informativos e com o tom certo — educativo, sem ser alarmista.
+
+🔍 Explore o processo completo de criação:
+
+### <div align="center">
+  <a href="https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts" title="Ver prompts utilizados">
+    📘 Clique aqui para acessar os prompts do projeto!</a></div>
+
+
+</br>
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+
+---
+
+</br>
+
+## 📗 PROJETO E-BOOK: *"Metanol - A Bebida que Você não vê!"*
 
 ### 🎯 Sobre o Projeto
 Este eBook emerge como uma resposta urgente à crise de saúde pública que assola o Brasil em 2025: a **intoxicação por metanol em bebidas alcoólicas**.  
@@ -48,7 +71,7 @@ com linguagem clara e tom de *“amigo bem informado”*, sem paternalismo ou se
 ---
 
 ### 🎨 Abordagem Criativa
-- **Título impactante:** *"tITULO"* — usa uma expressão popular para tratar de um tema sério.  
+- **Título impactante:** *"Metanol - A Bebida que Você não vê!"* — usa uma linguagem popular para tratar de um tema sério.  
 - **Design visual:** ilustrações geradas por IA (*com suas limitações documentadas*).  
 - **Estrutura progressiva:** do básico (*“O que é metanol”*) ao prático (*“Como agir em emergências”*).
 
@@ -76,25 +99,6 @@ Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
 
 </br>
 
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [DeepSeek]()
-- [Gemini]()
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-</br>
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-
----
-
-</br>
 
 ## 🧠 Epílogo Visual: Quando a IA "Enxerga Demais" (ou de Menos)
 
@@ -105,16 +109,16 @@ Textos trocados, palavras inexistentes e frases em português que desafiam qualq
 Mas o problema vai além da gramática: ele revela os **limites de interpretação das IA generativas** e como elas **ainda distorcem contextos culturais e linguísticos** fora do eixo inglês.
 
 Se você se interessa por **arte, tecnologia e crítica digital**, vale explorar o anexo especial abaixo —  
-um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda tropeçam quando tentam ser criativos em português**.  
+um estudo de caso real mostrando como modelos como DALL·E e Gemini Nano Banano **ainda tropeçam quando tentam ser criativos em português**.  
 
-🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](#-anexo-crítica-às-ia-generativas-de-imagem)
+🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/blob/main/ap%C3%AAndice.md)
 
 ---
 </br>
 
 ## 📚 Material de Apoio
 - 📄 [Documentação Completa](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main)
-- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts/output)  
+- 📋 [Template de Prompts](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts)  
 
 </br>
 
@@ -123,14 +127,27 @@ um estudo de caso real mostrando como modelos como DALL·E e Gemini **ainda trop
 A informação salva vidas — e toda base deste projeto foi construída sobre dados oficiais e reportagens verificadas.  
 Para garantir a transparência e possibilitar que qualquer leitor aprofunde o tema, compilamos uma bibliografia atualizada com **notícias, boletins oficiais e artigos científicos** sobre a crise do metanol em 2025.
 
+</br>
+
 🧾 **Acesse aqui o arquivo completo:**  
 👉 [Bibliografia e Fontes — Crise do Metanol 2025](./assets/sources/bibliografia-e-fontes-relevantes.txt)
 
 ---
 
+</br>
+
 💡 **Dica:**  
 Caso esteja visualizando este repositório diretamente no GitHub, você pode clicar no link acima para abrir o `.txt` dentro do navegador, ou baixá-lo para leitura offline.
 
+
+</br>
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [GPT - DALL·E 3](https://chat.openai.com/) 
+- [DeepSeek](https://www.deepseek.com/)
+- [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 </br>
 
