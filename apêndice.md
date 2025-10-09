@@ -59,7 +59,7 @@ Este anexo busca **documentar e comparar** esses erros, apresentando um pequeno 
 `"Gere um card com a seguinte mensagem: "EMERGÊNCIA: REAJA IMEDIATAMENTE Sintomas de alerta (Ministério da Saúde): Náuseas e tontura intensas Visão turva ou perda de foco Dor de cabeça forte e repentina Falta de coordenação ou confusão mental Procedimento imediato: Ligue para o SAMU (192) Vá ao hospital imediatamente — não espere os sintomas passarem Leve a embalagem da bebida, se possível, para análise médica. Cada minuto conta. O metanol pode causar cegueira ou morte em poucas horas. Agir rápido pode ser a diferença entre a vida e a perda irreversível."`
 
 ### 🔹 Imagem Original (Gemini Nano Banano)
-<img src="./assets/img/broke-gen-img/gemini-nano-banano/gen-card-1-gemini-nano-banano.jpg" width="400">
+<img src="./assets/img/broke-gen-img/gemini-nano-banano/gen-card-1-gemini-nano-banana.jpg" width="400">
 
 **Problemas identificados:**
 - Texto em português completamente sem sentido  
