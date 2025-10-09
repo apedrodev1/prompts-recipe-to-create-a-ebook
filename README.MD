@@ -171,4 +171,6 @@ Caso esteja visualizando este repositório diretamente no GitHub, você pode cli
 </br>
 
 ## 📄 Licença
-Este projeto foi desenvolvido para fins educacionais como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/) .
+Este projeto foi desenvolvido para fins educacionais como parte do [**Programa Trainee Santander 2026**](https://www.santander.com.br/hotsite/traineesantander/).
+
+
