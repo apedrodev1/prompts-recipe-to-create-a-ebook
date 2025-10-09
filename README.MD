@@ -29,7 +29,7 @@ seguem abaixo.
 
 </br>
 
-### <div align="center"><a  href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now" > 📕 Clique aqui para ler!</a></div>
+### <div align="center"><a  href="./outputs/Metanol - A bebida que você não vê!.pdf" title="View PDF now" > 📕 Clique aqui para ler!</a></div>
 
 </br>
 
@@ -41,7 +41,7 @@ Através da **engenharia de prompts**, foi possível orientar a IA a gerar texto
 🔍 Explore o processo completo de criação:
 
 ### <div align="center">
-  <a href="https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/tree/main/prompts" title="Ver prompts utilizados">
+  <a href="./prompts/" title="Ver prompts utilizados">
     📘 Clique aqui para acessar os prompts do projeto!</a></div>
 
 
@@ -91,14 +91,19 @@ Mais que um eBook, este projeto é uma **ferramenta de prevenção** que:
 
 - Democratiza **informação médica crítica**  
 - Empodera **jovens com conhecimento protetivo**  
-- Cria uma **rede de conscientização coletiva**  
+- Cria uma **rede de conscientização coletiva** 
+
+
+</br>
+
 
 > 🧩 Este não é apenas mais um eBook — é um instrumento de proteção que pode literalmente **salvar vidas**.
+
+</br>
 
 ---
 
 </br>
-
 
 ## 🧠 Epílogo Visual: Quando a IA "Enxerga Demais" (ou de Menos)
 
@@ -111,7 +116,7 @@ Mas o problema vai além da gramática: ele revela os **limites de interpretaç�
 Se você se interessa por **arte, tecnologia e crítica digital**, vale explorar o anexo especial abaixo —  
 um estudo de caso real mostrando como modelos como DALL·E e Gemini Nano Banano **ainda tropeçam quando tentam ser criativos em português**.  
 
-🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](https://github.com/apedrodev1/prompts-recipe-to-create-a-ebook/blob/main/ap%C3%AAndice.md)
+🔁 **Acesse aqui:** [Crítica às IA Generativas de Imagem](./append.md)
 
 ---
 </br>
@@ -148,6 +153,7 @@ Caso esteja visualizando este repositório diretamente no GitHub, você pode cli
 - [DeepSeek](https://www.deepseek.com/)
 - [Gemini Nano Banana](https://gemini.google/overview/image-generation/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Convertio](https://convertio.co/pt/)
 
 </br>
 
